@@ -11,9 +11,10 @@ Progetto di analisi statistica descrittiva su un dataset relativo al mercato imm
 ## Tecnologie
 - R
 - Analisi statistica
+- ggplot2
 
-## Risultati
-Individuazione di pattern e relazioni tra variabili del mercato immobiliare.
+## Obiettivo
+Interpretare i dati e individuare pattern utili nel mercato immobiliare.
 
-## Visualizzazione progetto
-Aprire il file HTML per vedere il report completo dell’analisi.
+## Come eseguire
+Aprire il file `.R` in RStudio ed eseguire il codice.
